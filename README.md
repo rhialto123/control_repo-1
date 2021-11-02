@@ -1,2 +1,2 @@
 # control_repo
-Test Puppet
+Test Puppet!
